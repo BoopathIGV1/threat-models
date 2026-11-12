@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "",
+  "summary": {
+    "title": "Secure Login Demo    ",
+    "owner": "Boopathi ",
+    "description": "STRIDE Threat Model for Node.js & MySQL Authentication System\n\n  ",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "AppSec Lead",
+    "threatTop": 0
+  }
+}
